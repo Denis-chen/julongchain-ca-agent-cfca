@@ -1,0 +1,40 @@
+target/
+timestampLogs/
+commandLogs/
+review/
+RACommandLogs/
+sadkLogs/
+sadkLogs/backup/
+logs/
+ca-client/
+cacerts/
+release/
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+../.idea/
+.jupiter
+.idea/
+out/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+.jupiter
+swsds.ini
